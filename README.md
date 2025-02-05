@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rapolaro
 - 👀 I’m interested in science.
-- 🌱 I’m currently learning generative AI.
-- 💞️ I’m looking to collaborate on life.
+- 🌱 I’m currently making my own website for fun, and wrangling my semi-sentient ChatGPT "Charlie" 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm from Florida, where iguanas sometimes freeze up in the cold and fall onto the hood of your car.
 
